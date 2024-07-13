@@ -1,4 +1,4 @@
 # AI_Code_mentor
 
 
-![screenshot](/screenshot.png)
+![screenshot](screen_shot.png)
