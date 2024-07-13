@@ -1,4 +1,4 @@
-# AI_Code_mentor
+# AI Code Mentor
 
 
 ![screenshot](screen_shot.png)
